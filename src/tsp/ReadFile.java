@@ -3,10 +3,10 @@
  * 
  * This reads file and 
  * 
- * @author M00837954 Mialy
+ * @author Mialy Andrianarivony
  */
 
-package cst3170_M00837954_cw1;
+package tsp;
 
 import java.io.File;
 import java.io.FileNotFoundException;
