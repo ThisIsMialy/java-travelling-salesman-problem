@@ -3,11 +3,11 @@
  * 
  * Used for: Depth First Search, Heuristic Nearest Neighbour
  * 
- * @author M00837954
+ * @author Mialy Andrianarivony
  * 
  */
 
-package cst3170_M00837954_cw1;
+package tsp;
 
 import java.util.List;
 
