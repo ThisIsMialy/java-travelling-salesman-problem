@@ -7,10 +7,10 @@
  * Find a minimum spanning tree for the cities given
  * Construct a closed circuit based on the MST 
  * 
- * @author M00837954 Mialy
+ * @author Mialy Andrianarivony
  */
 
-package cst3170_M00837954_cw1;
+package tsp;
 
 import java.util.*;
 
