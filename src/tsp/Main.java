@@ -8,10 +8,10 @@
  * Runs the algorithms on files
  * 
  * 
- * @author M00837954 Mialy
+ * @author Mialy Andrianarivony
  */
 
-package cst3170_M00837954_cw1;
+package tsp;
 
 import java.util.*;
 
@@ -59,8 +59,8 @@ public class Main {
 
 
 	/**
-	 * Manages all algorithms and execute each algorithm on the List<List<Integer>>
-	 * Takes one file at a time and execute all algorithms
+	 * Manages all algorithms and executes each algorithm on the List<List<Integer>>
+	 * Takes one file at a time and executes all algorithms
 	 * 
 	 * Each algorithm will create its own object 
 	 * Each algorithm has its own output and will print out the result path and distance
