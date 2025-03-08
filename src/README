@@ -1,0 +1,11 @@
+HOW TO RUN:
+
+Run Main.java (on Eclipse)
+
+It will ask for filename input in console
+
+Conditions:
+Write the filename (with file extensions)
+Make sure file is in the same directory as the src folder
+Make sure that file contains each line consists of id, x-coordinates, y-coordinates
+
