@@ -4,10 +4,10 @@
  * Dependencies: City.java
  * 
  * This is a heuristic nearest neighbour algorithm
- * @author M00837954
+ * @author Mialy Andrianarivony
  */
 
-package cst3170_M00837954_cw1;
+package tsp;
 import java.util.*;
 
 
